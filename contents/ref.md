@@ -1,0 +1,4 @@
+---
+bibliography: pubs.bib
+nocite: '@*'
+...
