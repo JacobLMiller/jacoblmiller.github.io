@@ -2,6 +2,8 @@
 
 [1] Miller, Jacob, Dhruv Bhatia, Stephen Kobourov. "<a href="papers/Riemannian_STAR.pdf">State of the Art of Graph Visualization in non-Euclidean Spaces</a>" EuroVis STAR, CGF. 2024
 
+[2] Efrat, Alon, William Evans, Kassian Köck, Stephen Kobourov, Jacob Miller. "<a href="https://rdcu.be/egj2J">Visualization of Bipartite Graphs in Limited Window Size</a>" Acta Informatica. 2025.
+
 ## Conference Papers
 
 [1] Miller, Jacob, Stephen Kobourov, and Vahan Huroyan. "<a href="papers/HMDS.pdf">Browser-based hyperbolic visualization of graphs.</a>" 2022 IEEE 15th Pacific Visualization Symposium (PacificVis). IEEE, 2022.
@@ -14,8 +16,10 @@
 
 [5] Miller, Jacob, Vahan Huroyan, Raymundo Navarrete, Md Iqbal Hossain, Stephen Kobourov. "<a href="papers/ENS-t-SNE.pdf">ENS-t-SNE: Embedding Neighborhoods Simultaneously t-SNE</a>" 2024 IEEE 17th Pacific visualization Symposium (PacificVis). IEEE, 2024
 
-[6] Mooney, Gavin J., Helen C. Purchase, Michael Wybrow, Stephen G. Kobourov, and Jacob Miller. "<a href="https://arxiv.org/abs/2409.04493">The Perception of Stress in Graph Drawings</a>" 
+[6] Mooney, Gavin J., Helen Purchase, Michael Wybrow, Stephen Kobourov, and Jacob Miller. "<a href="https://arxiv.org/abs/2409.04493">The Perception of Stress in Graph Drawings</a>" 
 International Symposium on Graph Drawing and Network Visualization. 2024
+
+[7] Miller, Jacob, Dhruv Bhatia, Helen Purchase, Stephen Kobourov. "<a href="">Euclidean, Hyperbolic, and Spherical Networks: An Empirical Study of Matching Network Structure to Best Visualizations</a>" (to appear) EuroVis 2025. 
 
 
 ## Short and Workshop Papers
