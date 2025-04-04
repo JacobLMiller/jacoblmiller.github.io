@@ -24,6 +24,6 @@ International Symposium on Graph Drawing and Network Visualization. 2024
 
 ## Short and Workshop Papers
 
-[1] Mackey, Patric, Jacob Miller, Liz Faultersack. "<a href="">Improving Property Graph Layouts by Leveraging Attribute Similarity for Structurally Equivalent Nodes</a>" 2024 IEEE VIS Short Papers. 
+[1] Mackey, Patric, Jacob Miller, Liz Faultersack. "<a href="https://ieeexplore.ieee.org/abstract/document/10771124">Improving Property Graph Layouts by Leveraging Attribute Similarity for Structurally Equivalent Nodes</a>" 2024 IEEE VIS Short Papers. 
 
 [2] Smelser, Kiran, Jacob Miller, Stephen Kobourov. "<a href="https://arxiv.org/abs/2408.07724">"Normalized Stress" is Not Normalized: How to Interpret Stress Correctly</a>" 2024 BELIV Workshop. 
