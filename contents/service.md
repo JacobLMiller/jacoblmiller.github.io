@@ -1,0 +1,6 @@
+- PC member - IEEE VIS Short Papers (2026)
+- PC member - GDxDR Workshop (associated with EuroVis) (2026)
+- PC member - EuroVA Workshop (associated with EuroVis) (2026)
+- PC member - EuroVis Posters and Demos (2026)
+- Co-chair  - ETVIS Workshop (associated with ETRA) (2026)
+- PC member - EuroVis Posters and Demos (2025)

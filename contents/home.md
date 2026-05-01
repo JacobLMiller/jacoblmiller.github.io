@@ -1,11 +1,11 @@
 
 Hey! You're at the personal website of Jacob Miller, a postdoctoral fellow at TU Munich. My primary research interest is network visualization, in particular network layout. 
 
-Find my CV <a href="miller_cv.pdf">here!</a>
+Find my CV <a href="miller_cv.pdf">here.</a>
 
 <a href="https://dblp.org/pid/188/3408-1.html">DBLP</a>
 
-<a href="https://scholar.google.com/citations?user=kggsAH0AAAAJ&hl=en&oi=ao">Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=fSkA-aQAAAAJ&hl=en">Google Scholar</a>
 
 #### Email
 jacob.miller[at]tum.de
@@ -18,4 +18,4 @@ Advisor: Stephen Kobourov | <a href="https://jacoblmiller.github.io/papers/thesi
 (2020) B.S. in Computer Science from Southwestern Oklahoma State University
 
 #### Research Intersts
-Graph layout, Network visualization, Data visualization, Dimension reduction, Graph algorithms
+Graph layout, Dimensionality reduction, Network visualization, Graph algorithms
