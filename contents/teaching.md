@@ -1,0 +1,4 @@
+- Summer 2026: Introduction to Data Visualization (Revised and taught)
+- Winter 2025: Data Science (Developed and taught), Bachelor Seminar on Algorithm Engineering
+- Summer 2025: Data Structures and Algorithms (Conducted exercises), 
+- Winter 2024: Theory of Computation (Conducted exercises), Bachelor Seminar on Algorithm Engineering
