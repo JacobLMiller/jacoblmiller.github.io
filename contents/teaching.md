@@ -1,4 +1,6 @@
-- Summer 2026: Introduction to Data Visualization (Revised and taught)
-- Winter 2025: Data Science (Developed and taught), Bachelor Seminar on Algorithm Engineering
-- Summer 2025: Data Structures and Algorithms (Conducted exercises), 
-- Winter 2024: Theory of Computation (Conducted exercises), Bachelor Seminar on Algorithm Engineering
+- Bachelor/Master Seminar on Algorithm Engineering -- Coordinated and advised student research projects
+- Bachelor/Master Practical on Algorithm Competitive Challenges -- Advised student  projects    
+- Data Science (Bachelor) -- Created and taught lecture content and exercises
+- Data Structures and Algorithms (Bachelor) -- Coordinated 5 weekly tutorial sessions and taught 2 of them
+- Introduction to Data Visualization (Bachelor) -- Created and taught lecture content and exercises
+- Theory of Computation (Bachelor) -- Coordinated 5 weekly tutorial sessions and taught 3 of them
