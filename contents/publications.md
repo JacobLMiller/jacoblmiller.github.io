@@ -45,11 +45,3 @@ My name is in **bold**; \* marks students I supervised. Full papers at IEEE VIS 
 [W2] Brand, Timo, Henry Förster, Stephen Kobourov, and <b>Jacob Miller</b>. "<a href="https://arxiv.org/abs/2511.03617">Visualization Biases MLLM's Decision Making in Network Data Tasks.</a>" VisXGenAI Workshop @ IEEE VIS 2025. 2025.
 
 [W3] Smelser, Kiran\*, <b>Jacob Miller</b>, and Stephen Kobourov. "<a href="https://arxiv.org/abs/2408.07724">"Normalized Stress" is Not Normalized: How to Interpret Stress Correctly.</a>" BELIV Workshop @ IEEE VIS 2024. 2024.
-
-## Under Review
-
-[S1] <b>Miller, Jacob</b>, Timo Brand, Sebastian Damrich, and Stephen Kobourov. "Toroidal Graph Drawing by Multidimensional Scaling." Under review, IEEE PacificVis 2027.
-
-[S2] Möhring, Hannes\*, and <b>Jacob Miller</b>. "HiLDE: Hierarchical Local Decomposition and Explanation for High-Dimensional Data Analysis." Under review, EuroVis 2027.
-
-[S3] Hangan, Daniel\*, Stephen Kobourov, and <b>Jacob Miller</b>. "Multidimensional Scaling by Stochastic Gradient Descent." Under review, EuroVis 2027.
