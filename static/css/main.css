@@ -128,3 +128,24 @@ section .main-body{
 
 }
 
+
+.main-body table {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-collapse: collapse;
+}
+
+.main-body th,
+.main-body td {
+    padding: 0.4rem 0.6rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    text-align: left;
+    vertical-align: top;
+}
+
+@media (max-width: 768px) {
+    .main-body table {
+        display: block;
+        overflow-x: auto;
+    }
+}

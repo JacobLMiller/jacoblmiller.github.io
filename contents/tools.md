@@ -1,6 +1,7 @@
-
-- <a href="http://gmap.cs.arizona.edu/">GMAP</a>: Under advanced options -> spherical/hyperbolic
-- <a href="https://jacoblmiller.github.io/spherical-mds/">Spherical Multidimensional Scaling (SMDS)</a>
-- <a href="https://jacoblmiller.github.io/riemann-study-web/">Spherical and hyperbolic graph visualizations</a>
-- <a href="https://jacoblmiller.github.io/ENS-t-SNE-web/">ENS-t-SNE</a>
-- <a href="https://rs-vis.algo.cit.tum.de">Dagstuhl Network Tool</a>
+- <a href="https://datafly.algo.cit.tum.de/">DataFly</a>: Interactive visualization of high-dimensional graph embeddings (Best Paper Honorable Mention, VIS 2026) [J1]
+- <a href="https://rs-vis.algo.cit.tum.de">Dagstuhl Network Tool</a>: Interactive visualization of collaboration and topic patterns across Dagstuhl seminars (Best Poster Award, GD 2023)
+- <a href="https://beta.metrosets.algo.cit.tum.de/">MetroSets+</a>: Interactive editor of metro-map style set visualizations
+- <a href="http://gmap.algo.cit.tum.de/">GMap: Spherical and Hyperbolic Extension</a>: Non-Euclidean (spherical and hyperbolic) layouts in the GMap graph-as-map system (under advanced options) [C7, C8]
+- <a href="https://jacoblmiller.github.io/spherical-mds/">Spherical MDS</a>: Open-source implementation of multidimensional scaling on the sphere [C7]
+- <a href="https://jacoblmiller.github.io/ENS-t-SNE-web/">ENS-t-SNE</a>: t-SNE for embedding multiple neighborhood perspectives simultaneously [C4]
+- <a href="https://jacoblmiller.github.io/riemann-study-web/">Non-Euclidean Network Gallery</a>: Interactive browser for the Euclidean, spherical, and hyperbolic network visualizations from our empirical study [J7]

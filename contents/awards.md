@@ -1,3 +1,4 @@
-
-- award 1
-- award 2
+- **Best Paper Honorable Mention**, IEEE VIS 2026 [J1]
+- **Best Paper Honorable Mention**, EuroVis 2026 [J2]
+- **Honorable Mention**, IEEE VAST Challenge 2026 (advisor of student team)
+- **Best Poster Award**, Graph Drawing and Network Visualization (GD) 2023: Klesen, Felix, Jacob Miller, Fabrizio Montecchiani, Martin Nöllenburg, and Markus Wallinger. "What Happens at Dagstuhl? Uncovering Patterns through Visualization"
